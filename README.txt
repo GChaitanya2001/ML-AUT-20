@@ -12,7 +12,5 @@ Instructions for installing libraries:
 
 * The program takes longer time,due to large amount of given data(43K).
 
-* if you want faster results to check whether all parts are running, decrease the dataset
- size by adding the following line to main function before part1:
-                            
-        df = df[:/size/]
+
+       
