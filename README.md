@@ -1,7 +1,7 @@
 # ML-AUT-20
 Few ML algorithm implementations
 # Project Name
-> Here goes your awesome project description!
+Machine Learning Algorithms
 
 ## Table of contents
 * [General info](#general-info)
@@ -14,5 +14,5 @@ Few ML algorithm implementations
      Some Machine Learning Algorithms are implemented from scratch.
      
 ## Technologies
-     *Google Colab
-     *Python 3.0
+    * Google Colab
+    * Python 3.0
