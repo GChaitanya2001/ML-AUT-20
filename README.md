@@ -15,4 +15,4 @@ Machine Learning Algorithms
      
 ## Technologies
     * Google Colab
-    * Python 3.0
+    * Python 3
